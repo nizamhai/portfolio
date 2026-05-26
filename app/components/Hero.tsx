@@ -65,7 +65,7 @@ export default function Hero() {
         >
           <div style={{ marginBottom: "2rem" }}>
             <img
-              src="/profile.jpg"
+              src="/portfolio/profile.jpg"
               alt="Hai Nizam"
               style={{
                 width: "140px",
